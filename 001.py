@@ -1,4 +1,4 @@
-print("Bonjour à vous visiteur, aujourd'hui vous pourrez testé mon premier programme")
+print("Bonjour à vous visiteur, aujourd'hui vous pourrez tester mon premier programme")
 print("Ce programme vous demandera votre année de naissance ainsi qu'une année futur(exemple 2030) et déterminera votre âge à cette année")
 birth_year = int(input("Quelle est votre année de naissance ? : "))
 year = int(input("Quelle est l'année futur ? : "))
