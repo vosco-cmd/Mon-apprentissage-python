@@ -1,3 +1,4 @@
+#Cet exercice était difficile et je pèse mes mots. J'ai dû comprendre la gestion des variables booléennes et la synchronisation des boucles while pour éviter les crashs à la dernière ligne.
 total_envisages = int(input())
 temp_minimal = int(input())
 temp_maximal = int(input())
